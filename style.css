@@ -11,6 +11,10 @@ header {
   margin-bottom: 40px;
 }
 
+section h2 {
+  margin-top: 10px;
+}
+
 section {
   background: white;
   padding: 15px;
