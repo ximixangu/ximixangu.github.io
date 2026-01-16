@@ -22,8 +22,9 @@ section {
   border-radius: 8px;
 }
 
-a {
+section a {
   color: #0066cc;
   text-decoration: none;
-  margin-bottom: 10px;
+  display: inline-block;
+  margin-bottom: 1rem;
 }
