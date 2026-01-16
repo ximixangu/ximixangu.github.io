@@ -26,3 +26,8 @@ a {
   color: #0066cc;
   text-decoration: none;
 }
+
+section p {
+  margin-bottom: 0;
+}
+
