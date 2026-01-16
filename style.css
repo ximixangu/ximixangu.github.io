@@ -22,13 +22,7 @@ section {
   border-radius: 8px;
 }
 
-section a {
+a {
   color: #0066cc;
   text-decoration: none;
-  display: inline-block;
-  margin-bottom: 1rem;
-}
-
-li a {
-  margin-bottom: px;
 }
